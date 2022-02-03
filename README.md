@@ -1,0 +1,2 @@
+# imghost
+hexo图床
